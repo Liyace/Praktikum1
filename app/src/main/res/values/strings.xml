@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Praktikum1</string>
+    <string name="hello_world">Hello World</string>
+    <string name="textview1">Hello World</string>
+    <string name="tv_nama">Nama Lengkap</string>
+    <string name="tv_hasil">Hasilnya Adalah</string>
+    <string name="et_hasil">Hasil</string>
+    <string name="et_nama">Masukkan nama Anda</string>
+    <string name="bt_proses">Proses</string>
+    <string name="etm_hasil">Hasil</string>
+</resources>
